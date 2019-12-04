@@ -1,0 +1,9 @@
+// CONFIGURANDO O WEBPACK
+// Trabalhar com vários arquivos js
+// no package.json, mudar o dependencies para devDependencies (pois nao precisa na produção dos packs babel)
+// yarn add webpack webpack-cli -D (no terminal)
+// web.acpk.config.js
+import { soma as somaFunction, sub } from './funcoes';
+
+console.log(somaFunction(1, 2));
+console.log(sub(1,2));
