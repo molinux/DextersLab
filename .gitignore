@@ -1,3 +1,8 @@
 load-repository/node_modules/
 load-repository/src/main/
 load-repository/ES6+.txt
+node-api/node_modules
+node-api/NodeJS.txt
+huntweb/node_modules
+desafio01/node_modules
+
