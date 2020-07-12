@@ -16,3 +16,6 @@ desafio01
 
 mobile-github-api-consume
   - React Native study case. Consuming the Github API and AsyncStorage use case.
+
+charts
+  - ChartJS and array study case
