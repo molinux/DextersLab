@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vikings Pizzaria</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <div class="navigation-container">
+    <div class="navigation-content">
+      <div class="logo"><img src="assets/images/logo.png" alt="logo"></div>
+      <div class="menu">
+        <ul>
+          <li><a href="#">MENU</a></li>
+          <li><a href="#">BEST DEALS</a></li>
+          <li><a href="#">ONLINE ORDER</a></li>
+        </ul>
+      </div>
+      <div class="cart">
+        <img height="30px" src="assets/images/cart.png" alt="carrinho">
+        <a href="#">Cart</a>
+      </div>
+    </div>
+  </div>
+  <!-- NAVIGATION END -->
+  <div class="content-container">
+    <div class="whats-new">
+      <img src="assets/images/WHATS NEW.png" alt="novidades">
+    </div>
+    <!-- 1 -->
+    <div class="content">
+      
+      <div class="first-row">
+        <div class="new">
+          <p>FRANGO GRELHADO</p>
+          <p>PIZZA DE VERÃO</p>
+          <button>QUENTE E PICANTE</button>
+        </div>
+        <!--  -->
+        <div class="find">
+          <div class="search">
+            <p>FIND LOCATIONS</p>
+            <div class="text">
+              <input type="search" placeholder="Pesquisar...">
+              <button>Pesquisar</button>
+            </div>
+          </div>
+          <!--  -->
+          <div class="order">
+            <a href="#">
+              <font style="color: #f9a609;">PEDIDO</font> ONLINE
+            </a>
+          </div>
+        </div>
+      </div>
+      <!-- 2 -->
+      <div class="second-row">
+        <div class="food-one">
+          <div class="name">
+            <p>VEGETARIANA</p>
+            <p>ESPECIAL</p>
+          </div>
+          <div class="price"><button>R$ 59<sup>99</sup></button></div>
+        </div>
+        <div class="food-two">
+          <div class="name">
+            <p>CHICKEN WRAP</p>
+            <p>ESPECIAL</p>
+          </div>
+          <div class="price"><button>R$ 55<sup>99</sup></button></div>
+        </div>
+        <div class="food-three">
+          <div class="name">
+            <p>ICE COFFEE</p>
+            <p>VERÃO</p>
+            <div class="price"><button>R$ 5<sup>99</sup></button></div>
+          </div>
+        </div>
+        <!-- 3 -->
+        <div class="third-row">
+          <div class="flavor">
+            <a href="#">
+              <p>SABORES</p>
+              <p>VEGETAIS GRELHADOS</p>
+            </a>
+          </div>
+          <div class="breakfast">
+            <a href="#">
+              <p>MENU CAFÉ DA MANHÃ</p>
+              <p>PARANTHA ROLL</p>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--  -->
+    <div class="footer">
+      <div class="navigation-content">
+        <div class="logo"><img src="assets/images/logo.png" alt=""></div>
+        <div class="menu footer-menu">
+          <ul>
+            <li><a href="#">SOBRE NÓS</a></li>
+            <li><a href="#">CONTATO</a></li>
+            <li><a href="#">EQUIPE</a></li>
+            <li><a href="#">SUPORTE</a></li>
+          </ul>
+        </div>
+        <div class="social">
+          <ul>
+            <li><a href="#"><img src="assets/images/facebook.png" alt="facebook"></a></li>
+            <li><a href="#"><img src="assets/images/twitter.png" alt="twitter"></a></li>
+            <li><a href="#"><img src="assets/images/youtube.png" alt="youtube"></a></li>
+          </ul>
+        </div>
+      </div>
+      <!-- NAVIGATION END -->
+      <div class="copyright">
+        <p>Desenvolvido por: Molinero Corp.</p>
+      </div>
+    </div>
+    </div>
+</body>
+</html>
